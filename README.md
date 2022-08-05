@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [rohitscode.ml](rohitscode.ml)
+- 👨‍💻 All of my projects are available at [https://rohitscode.ml](https://rohitscode.ml)
 
 - 💬 Ask me about **React, Node, Express, MongoDB**
 
