@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudochain" alt="sudochain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>-->
+<p align="left"> <a href="https://twitter.com/rohitkr2307" target="blank"><img src="https://img.shields.io/twitter/follow/rohitkr2307?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>-->
 
 - 🌱 I’m currently learning **React**
 
