@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">I'm A MERN Full Stack Web Developer & I'm passionate about Blockchain development.</h3>
+<h3 align="center">I'm a MERN Full Stack Web Developer & I'm passionate about Blockchain development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudochain&label=Profile%20views&color=0e75b6&style=flat" alt="sudochain" /> </p>
 
