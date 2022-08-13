@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudochain&show_icons=true&locale=en" alt="sudochain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudochain&" alt="sudochain" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sudochain&" alt="sudochain" /></p>
