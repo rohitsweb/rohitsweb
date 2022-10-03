@@ -31,11 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudochain&show_icons=true&locale=en" alt="sudochain" /></p>
 
-<p align="left"> 
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sudochain&theme=dark" alt="sudochain" /></p>
+<a href="http://www.github.com/Ayushluthra2001">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sudochain1&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudochain&theme=onedark)](https://github.com/sudochain/github-profile-trophy)
-
-</a> </p>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudochain&" alt="sudochain" /></p>
