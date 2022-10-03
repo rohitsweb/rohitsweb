@@ -34,7 +34,7 @@
 <p align="left"> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark)](https://github.com/rohitverse/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudochain&theme=onedark)](https://github.com/sudochain/github-profile-trophy)
 
 </a> </p>
   
