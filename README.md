@@ -37,5 +37,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark)](https://github.com/rohitverse/github-profile-trophy)
 
 </a> </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sudochain1&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+  
 
